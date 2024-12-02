@@ -1,0 +1,7 @@
+A fazer
+
+-Classe Objetivo
+-Classe Jogo
+
+
+- Classe Log (Maybe)
