@@ -1,0 +1,61 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/paulo/.m2/repository/com/github/cliftonlabs/json-simple/4.0.1/json-simple-4.0.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/paulo/Desktop/trabalhoed/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/paulo/Desktop/trabalhoed/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'trabalhoed 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'trabalhoed 1.0-SNAPSHOT API'
+Estruturas
+Estruturas.Exceptions
+Estruturas.Interfaces
+Estruturas.SortSearch
+Interfaces
+Jogo
+Jogo.Printer
+Jogo.Resultados
+C:\Users\paulo\.m2\repository\com\github\cliftonlabs\json-simple\4.0.1\json-simple-4.0.1.jar = 1732902646845
+C:\Users\paulo\Desktop\trabalhoed\src\main\java = 1733508124517
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\allclasses-index.html = 1734116380615
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\allpackages-index.html = 1734116380621
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\constant-values.html = 1734116380218
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\copy.svg = 1734116380725
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\element-list = 1734116380105
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\help-doc.html = 1734116380714
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\index-all.html = 1734116380700
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\index.html = 1734116380562
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\javadoc.bat = 1734116301343
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\jquery-ui.overrides.css = 1734116380745
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\member-search-index.js = 1734116380635
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\module-search-index.js = 1734116380624
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\overview-summary.html = 1734116380707
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\overview-tree.html = 1734116380555
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\package-search-index.js = 1734116380628
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\script.js = 1734116380722
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\search-page.js = 1734116380730
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\search.html = 1734116380704
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\search.js = 1734116380728
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\serialized-form.html = 1734116380232
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\stylesheet.css = 1734116380719
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\tag-search-index.js = 1734116380637
+C:\Users\paulo\Desktop\trabalhoed\target\reports\apidocs\type-search-index.js = 1734116380632
