@@ -122,12 +122,6 @@ In automatic mode, the game chooses an entry point and runs the mission using it
 
 The mission files (`missao.json` and `missao2.json`) contain the building layout, room connections, items, enemies, entry/exit points, and mission objective. You can inspect these files to understand how a mission is configured.
 
-## Author
-
-**Paulo Freitas**
-
-- GitHub: [@pagf17](https://github.com/pagf17)
-
 ---
 
 *Academic project developed for learning and applying data structures and algorithms in Java.*
